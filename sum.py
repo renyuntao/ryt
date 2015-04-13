@@ -1,3 +1,4 @@
+#Author:ryt
 #!/usr/bin/python
 
 print("*****This is sum program,please input two digit*****")
